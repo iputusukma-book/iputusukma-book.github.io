@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: FP&A Manager for <a href="https://kemenkeu.go.id/">Ministry of Finance</a>. Working Group Member at <a href="https://ksap.org/">Government Accounting Standard Committee</a>..Tutor and Research Assistant for<a href="https://feb.ui.ac.id/">University of Indonesia</a>. 
+subtitle: Sr. Financial Reporting & Analysis for <a href="https://kemenkeu.go.id/">Ministry of Finance</a>. Working Group Member at <a href="https://ksap.org/">Government Accounting Standard Committee</a>. Tutor and Research Assistant for <a href="https://feb.ui.ac.id/">University of Indonesia</a>. 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p></p>
