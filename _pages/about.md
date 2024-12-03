@@ -18,4 +18,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-A finance professional with over a decade of experience in financial planning & analysis, financial reporting, and financial data analytics for the Ministry of Finance. This website comprises my working paper, research, projects, and lecture notes. For further potential collaboration, you could reach me out at [iputusukma@pm.me](mailto: iputusukma@pm.me).
+A finance professional with over a decade of experience in financial planning & analysis, financial reporting, and financial data analytics for the Ministry of Finance. This website comprises my working paper, research, projects, and lecture notes. For further potential collaboration, you could reach me out at.
