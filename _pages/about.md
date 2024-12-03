@@ -6,7 +6,7 @@ subtitle: Sr. Financial Reporting & Analysis for <a href="https://kemenkeu.go.id
 
 profile:
   align: right
-  image: profile.png
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p></p>
