@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: I Putu Sukma Hendrawan
-    - name: Date of Birth
-      value: 
     - name: Languages
       value: English, Bahasa Indonesia
 
@@ -13,53 +11,43 @@
   contents:
     - title: Master of Science in Management (Finance & Banking)
       institution: Universitas Indonesia
-      year: 2022--2024
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+      year: 2022-2024
     - title: Bachelor of Economics in Finance
       institution: Universitas Indonesia
-      year: 2017--2019
-      description:
-        - Description 1.
-        - Description 2.
+      year: 2017-2019
+    - title: Bachelor of Economics in Accounting
+      institution: Sekolah Tinggi Ilmu Ekonomi YAI
+      year: 2014-2017
+    - title: Associate Diploma in Accounting
+      institution: Sekolah Tinggi Akuntansi Negara
+      year: 2006-2009
+    - title: High School Diploma
+      institution: SMA Taruna Nusantara Magelang
+      year: 2002-2005
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Deputy Head - Budget and Reporting Division
+      institution: Lembaga Manajemen Aset Negara, Kementerian Keuangan
+      year: 2016 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        Lembaga Manajemen Aset Negara (LMAN) is a special mission vehicle under the Ministry of Finance, assigned to optimize state assets and finance land acquisition for strategic national projects.
+        My responsibility is within the financial planning & analysis and financial reporting.
+    
+    - title: Working Group Member
+      institution: Komite Standar Akuntansi Pemerintahan
+      year: 2018 - present
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        Komite Standar Akuntansi Pemerintahan (KSAP) was formed by the State Treasury Act, and assigned to develop accounting standards for central and local government entities.
+        My responsibility as a working group member is conducting research and drafting the government accounting standards.
+    
+    - title: Tutor and Teaching Assistant
+      institution: Departemen Manajemen, Fakultas Ekonomi dan Bisnis, Universitas Indonesia
+      year: 2023 - present
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+        In this role, I conduct tutoring and teaching for several subjects in the Department of Management for M.Sc. and B.Econ students such as financial econometrics, finance theory, fixed income & asset-backed securities, corporate finance, financial statement analysis, and portfolio construction, 
+      
 
 - title: Open Source Projects
   type: time_table
