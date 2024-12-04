@@ -25,6 +25,7 @@
   "work": [
     {
       "name": "Lembaga Manajemen Aset Negara, Kementerian Keuangan",
+      "location": "Jakarta, Indonesia",
       "position": "Deputy Head - Budget & Reporting Division",
       "url": "https://lman.kemenkeu.go.id",
       "startDate": "2016-07-01",
@@ -34,6 +35,7 @@
     },
     {
       "name": "Direktorat Jenderal Kekayaan Negara, Kementerian Keuangan",
+      "location": "Jakarta, Indonesia",
       "position": "Investment Analyst - Budget & Reporting",
       "url": "https://kemenkeu.go.id",
       "startDate": "2014-04-14",
@@ -43,6 +45,7 @@
     },
     {
       "name": "Direktorat Jenderal Kekayaan Negara, Kementerian Keuangan",
+      "location": "Jakarta, Indonesia",
       "position": "Treasurer",
       "url": "https://kemenkeu.go.id",
       "startDate": "2011-01-01",
@@ -66,14 +69,25 @@
   "education": [
     {
       "institution": "Universitas Indonesia",
-      "location": "Depok Indonesa",
+      "location": "Depok, Indonesia",
       "url": "https://feb.ui.ac.id/",
       "area": "Finance, banking, management",
-      "studyType": "M.Sc.",
+      "studyType": "Master of Science in Management (Finance & Banking)",
       "startDate": "2022-02-17",
       "endDate": "2024-02-26",
       "score": "3.85 of 4.00",
       "courses": ["Corporate Finance, Banking, Fixed Income & Asset-Backed Securities, Portfolio Analytics, Financial Econometrics, Financial Statement Analysis, Quantitative Method in Finance"]
+    },
+    {
+      "institution": "Universitas Indonesia",
+      "location": "Jakarta, Indonesia",
+      "url": "https://feb.ui.ac.id/",
+      "area": "Financial management",
+      "studyType": "Bachelor of Economics in Finance",
+      "startDate": "2020-01-01",
+      "endDate": "2017-09-01",
+      "score": "3.72 of 4.00",
+      "courses": ["Corporate Finance, Financial Econometrics, Financial Statement Analysis, Investment Analysis"]
     }
   ],
   "awards": [
