@@ -12,7 +12,7 @@ plugins:
 
 # You can find fonts from https://iconify.design or https://fontawesome.com. Below is just an example illustrating how to use custom icons
 sidebar:
-  - name: Financial Eocnometrics
+  - name: Financial Econometrics
     icon: <i class="fa-solid fa-subscript"></i>
     link: https://iputusukma-book.github.io/finecon
   - name: Theory of Finance
