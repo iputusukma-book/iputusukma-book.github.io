@@ -8,10 +8,13 @@ layout: default
 ![hist](/assets/img/financehistory.png)
 
 **The old finance**
+
 Theme      : Analysis of financial statements and the nature of financial claims
+
 Paradigm   :
 1. Security analysis [Graham & Dodd](https://doi.org/10.1177/000271623517700152)
 2. Use and financial claim rights [Dewing](https://doi.org/10.1177/000271623518000148)
+
 Foundation : Accounting and law
 
 **The modern finance i.e. neoclassical finance**
