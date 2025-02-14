@@ -7,7 +7,8 @@ layout: default
 ## Introduction to Research
 ![hist](/assets/img/financehistory.png)
 
-<strong><u>The old finance<u/><strong><br>
+<strong><u>The old finance<u/><strong>
+
 Theme      : Analysis of financial statements and the nature of financial claims<br>
 Paradigm   :
 1. Security analysis [Graham & Dodd](https://doi.org/10.1177/000271623517700152)
@@ -15,7 +16,8 @@ Paradigm   :
 Foundation : Accounting and law
 
 
-<strong><u>The modern finance i.e. neoclassical finance<u/><strong><br>
+<strong><u>The modern finance i.e. neoclassical finance<u/><strong>
+
 Theme      : Valuation based on rational economic behavior<br>
 Paradigm   :
 1. Optimization [Markowitz, 1952](https://doi.org/10.1111/j.1540-6261.1952.tb01525.x)
@@ -25,7 +27,8 @@ Paradigm   :
 Foundation : Financial economics
 
 
-<strong><u>The new finance<u/><strong><br>
+<strong><u>The new finance<u/><strong>
+
 Theme      : Inefficient market<br>
 Paradigm   :
 1. Inductive ad hoc expected return [Haugen](http://dx.doi.org/10.3905/jai.2001.319015)
