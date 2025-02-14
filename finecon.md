@@ -4,10 +4,10 @@ layout: default
 
 # Financial Econometrics
 
-### Introduction to Research
+## Introduction to Research
 ![hist](/assets/img/financehistory.png)
 
-**The old finance**
+<u>The old finance</u>
 
 Theme      : Analysis of financial statements and the nature of financial claims
 
