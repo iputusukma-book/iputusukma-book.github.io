@@ -11,8 +11,8 @@ layout: default
 
 Theme      : Analysis of financial statements and the nature of financial claims<br>
 Paradigm   :
-1. Security analysis [Graham & Dodd](https://doi.org/10.1177/000271623517700152)
-2. Use and financial claim rights [Dewing](https://doi.org/10.1177/000271623518000148) <br>
+1. Security analysis [Graham & Dodd, 1951](https://doi.org/10.1177/000271623517700152)
+2. Use and financial claim rights [Dewing, 1941](https://doi.org/10.1177/000271623518000148) <br>
 Foundation : Accounting and law
 
 
@@ -31,12 +31,12 @@ Foundation : Financial economics
 
 Theme      : Inefficient market<br>
 Paradigm   :
-1. Inductive ad hoc expected return [Haugen](http://dx.doi.org/10.3905/jai.2001.319015)
-2. Factor models [Chen, Roll, & Ross](https://www.jstor.org/stable/2352710)
-3. Behavioral models [Kahneman & Tversky](https://doi.org/10.2307/1914185)
-4. Sustainable finance [Fatemi & Fooladi](https://doi.org/10.1016/j.gfj.2013.07.006)
-5. ESG [Porter & Kramer](https://hbr.org/2006/12/strategy-and-society-the-link-between-competitive-advantage-and-corporate-social-responsibility)
-6. Financial innovation [Merton](https://doi.org/10.1111/j.1745-6622.1992.tb00214.x) <br>
+1. Inductive ad hoc expected return [Haugen, 2001](http://dx.doi.org/10.3905/jai.2001.319015)
+2. Factor models [Chen, Roll, & Ross, 1986](https://www.jstor.org/stable/2352710)
+3. Behavioral models [Kahneman & Tversky, 1979](https://doi.org/10.2307/1914185)
+4. Sustainable finance [Fatemi & Fooladi, 2013](https://doi.org/10.1016/j.gfj.2013.07.006)
+5. ESG [Porter & Kramer, 2006](https://hbr.org/2006/12/strategy-and-society-the-link-between-competitive-advantage-and-corporate-social-responsibility)
+7. Financial innovation [Merton, 1992](https://doi.org/10.1111/j.1745-6622.1992.tb00214.x) <br>
 Foundation : Statistics, econometrics, psychology, environmental science 
 
 
