@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Financial Econometrics
+# Financial Econometrics
 
-# Regression Analysis
+## Regression Analysis
 
 [back](./)
