@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Teaching Materials
+## Financial Econometrics
 
-_yay_
+# Regression Analysis
 
 [back](./)
