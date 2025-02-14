@@ -8,11 +8,5 @@ This website is dedicated for my activities in academia and profession organizat
 
 Please do not hesitate to contact me for academic discussion through my email at [iputusukma@pm.me](mailto:iputusukma@pm.me) or [iputusukma2@gmail.com](mailto:iputusukma2@gmail.com) and through my WhatsApp number at +62812-9654-9229.
 
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Best regards,
+I Putu Sukma Hendrawan
