@@ -7,7 +7,7 @@ layout: default
 ## Introduction to Research
 ![hist](/assets/img/financehistory.png)
 
-<u>The old finance</u>
+<strong><u>The old finance<u/><strong>
 
 Theme      : Analysis of financial statements and the nature of financial claims
 
@@ -18,7 +18,7 @@ Paradigm   :
 Foundation : Accounting and law
 
 
-**The modern finance i.e. neoclassical finance**
+<strong><u>The modern finance i.e. neoclassical finance*<u/><strong>
 
 Theme      : Valuation based on rational economic behavior
 
@@ -31,7 +31,7 @@ Paradigm   :
 Foundation : Financial economics
 
 
-**The new finance**
+<strong><u>The new finance<u/><strong>
 
 Theme      : Inefficient market
 
