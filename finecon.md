@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## FINANCIAL ECONOMETRICS
----
+## FINANCIAL ECONOMETRICS <hr>
+
 ## I. Brief Introduction to Research
 
 ### Research Process: Theoretical and Empirical Task
