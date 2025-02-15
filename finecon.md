@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# FINANCIAL ECONOMETRICS
-
-## I. BRIEF INTRODUCTION TO RESEARCH
+## FINANCIAL ECONOMETRICS
+---
+## I. Brief Introduction to Research
 
 ### Research Process: Theoretical and Empirical Task
 
@@ -85,15 +85,7 @@ layout: default
     *   Laboratory
     *   Mixed
 
-
-
-
-
-
-
-
-
-## II. HISTORY OF FINANCE RESEARCH
+## II. History of Finance Research
 
 ![hist](/assets/img/financehistory.png)
 
@@ -125,7 +117,9 @@ layout: default
         *   Financial innovation [Merton, 1992](https://doi.org/10.1111/j.1745-6622.1992.tb00214.x) <br>
 
 
-## II. WHAT IS FINANCIAL ECONOMETERICS
+## III. Introduction to Financial Econometrics
+
+Financial econometrics is an interdisciplinary subjects
 
 
 ### Regression Analysis
