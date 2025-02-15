@@ -2,7 +2,8 @@
 layout: default
 ---
 
-## FINANCIAL ECONOMETRICS <hr>
+## FINANCIAL ECONOMETRICS
+---
 
 ## I. Brief Introduction to Research
 
