@@ -16,8 +16,8 @@ sidebar:
     icon: <i class="fa-solid fa-subscript"></i>
     link: https://iputusukma-book.github.io/finecon
   - name: Time Series
-    icon: <i class="fa-solid fa-subscript"></i>
-    link: https://iputusukma-book.github.io/finecon
+    icon: <i class="fa-solid fa-line-chart"></i>
+    link: https://iputusukma-book.github.io/timeseries
   - name: Theory of Finance
     icon: <i class="fa-solid fa-book-bookmark"></i>
     link: https://iputusukma-book.github.io/fintheory
