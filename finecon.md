@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Introduction to Financial Econometrics
+## Finance Research and Financial Econometrics
 ------
 
 ### In this page
