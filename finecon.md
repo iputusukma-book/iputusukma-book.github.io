@@ -15,7 +15,7 @@ layout: default
 #### Research Process: Theoretical and Empirical Task
 
 *   Research is often viewed as a process that comprised of theoretical tasks and empirical tasks.
-*   All rese#arch, regardless the discipline, requires activities at conceptual level (or so-called theoretical studies)
+*   All research, regardless the discipline, requires activities at conceptual level (or so-called theoretical studies)
 *   <u>Examples of empirical tasks:</u> data collection, constructing questionnaires, data analysis using computers.
 *   <u>Examples of theoretical tasks:</u> finding and constructing a precise problem, developing perspectives or models to represent the problem under scrutiny
 
