@@ -16,7 +16,7 @@ sidebar:
     icon: <i class="fa-solid fa-subscript"></i>
     link: https://iputusukma-book.github.io/finecon
   - name: Linear Regression
-    icon: <i class="fa-solid fa-chart-scatter-bubble"></i>
+    icon: <i class="fa-solid fa-square-poll-vertical"></i>
     link: https://iputusukma-book.github.io/finecon
   - name: Time Series Analysis
     icon: <i class="fa-solid fa-line-chart"></i>
