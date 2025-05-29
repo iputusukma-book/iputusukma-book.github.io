@@ -3,13 +3,14 @@ layout: default
 ---
 
 ## Introduction to Financial Econometrics
+======
 
 ### In this page
+------
 **[Brief Introduction to Research](#brief-introduction-to-research)**<br>
 **[History of Finance Research](#history-of-finance-research)**<br>
 **[Introduction to Financial Econometrics](#introduction-to-financial-econometrics)**<br>
 
-======
 
 ### Brief Introduction to Research
 ------
