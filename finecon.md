@@ -3,28 +3,31 @@ layout: default
 ---
 
 ## FINANCIAL ECONOMETRICS
----
 
-## I. Brief Introduction to Research
+### In this page
+**[Brief Introduction to Research](#Brief-Introduction-to-Research)**<br>
+**[History of Finance Research](#History-of-Finance-Research)**<br>
+**[Introduction to Financial Econometrics](#Introduction-to-Financial-Econometrics)**<br>
 
-### Research Process: Theoretical and Empirical Task
+
+### Brief Introduction to Research
+
+#### Research Process: Theoretical and Empirical Task
 
 *   Research is often viewed as a process that comprised of theoretical tasks and empirical tasks.
-*   All research, regardless the discipline, requires activities at conceptual level (or so-called theoretical studies)
+*   All rese#arch, regardless the discipline, requires activities at conceptual level (or so-called theoretical studies)
 *   <u>Examples of empirical tasks:</u> data collection, constructing questionnaires, data analysis using computers.
 *   <u>Examples of theoretical tasks:</u> finding and constructing a precise problem, developing perspectives or models to represent the problem under scrutiny
-```
-gem install bundler
-```
 
-### Research Process: Research and Knowledge
+
+#### Research Process: Research and Knowledge
 
 *   Albeit not its primary, one of the main purpose of research is to produce insights or knowledge.
 *   Knwowledge can be in the form of theories, models, concepts, methods/techniques, facts, and practical implications.
 *   The important point is that any research should have an intended contributions: to bring or add something new/novel.
 *   Even though some extent of waiver could be given to undergraduate level –  replication of previous research – contribution could still be produced. <u>For instance by providing different settings (time period, market, industry, sector) in such a replication study</u>.
 
-### Research Process: On what comes first: theory or research
+#### Research Process: On what comes first: theory or research
 
 *   On “what comes first: theory or research”:
     *   The context of discovery: concern on the situation where an item of knowledge is disovered or hypothesized. How a knowledge is learnt.
@@ -32,7 +35,7 @@ gem install bundler
 
 *   Example: Louis Bachelier in 1900 postulated that stock price movement is following a Brownian motion i.e., random walk. The following study, for instance: efficient market hypothesis, justified the random walk postulate through observation and experiment
 
-### Concepts, Definitions, Theory, & Methods
+#### Concepts, Definitions, Theory, & Methods
 
 *   Concepts:
     *   The building blocks of any theory or model. The abstraction representing an object, the property of an object or a certain phenomenon.
@@ -57,7 +60,7 @@ gem install bundler
     *   Should be logic (ways of reasoning to arrive at conclusion), communicating (convey the findings), and intersubjective (outsiders able to examine and evaluate the findings)
     *   Good research problems + underlying theory, means good method
 
-### Type of Research
+#### Type of Research
 
 *   According to its purpose: 
     *   Theoretical research that focus on knowledge discovery
@@ -89,7 +92,7 @@ gem install bundler
     *   Laboratory
     *   Mixed
 
-## II. History of Finance Research
+### History of Finance Research
 
 ![hist](/assets/img/financehistory.png)
 
@@ -121,12 +124,11 @@ gem install bundler
         *   Financial innovation [Merton, 1992](https://doi.org/10.1111/j.1745-6622.1992.tb00214.x) <br>
 
 
-## III. Introduction to Financial Econometrics
+### Introduction to Financial Econometrics
 
 Financial econometrics is an interdisciplinary subjects
 
 
-### Regression Analysis
 
 
 
