@@ -15,15 +15,21 @@ sidebar:
   - name: Financial Econometrics
     icon: <i class="fa-solid fa-subscript"></i>
     link: https://iputusukma-book.github.io/finecon
-  - name: Time Series
+  - name: Linear Regression
+    icon: <i class="fa-solid fa-chart-scatter-bubble"></i>
+    link: https://iputusukma-book.github.io/finecon
+  - name: Time Series Analysis
     icon: <i class="fa-solid fa-line-chart"></i>
     link: https://iputusukma-book.github.io/timeseries
   - name: Theory of Finance
     icon: <i class="fa-solid fa-book-bookmark"></i>
     link: https://iputusukma-book.github.io/fintheory
   - name: Corporate Finance
-    icon: <i class="fa-solid fa-chart-line"></i>
+    icon: <i class="fa-solid fa-chart-pie"></i>
     link: https://iputusukma-book.github.io/corpfin
+  - name: FInancial Reporting
+    icon: <i class="fa-solid fa-file-export"></i>
+    link: https://iputusukma-book.github.io/fintheory
   - name: Publication
     icon: <i class="fa-solid fa-graduation-cap"></i>
     link: https://iputusukma-book.github.io/publication
