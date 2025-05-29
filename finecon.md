@@ -2,16 +2,17 @@
 layout: default
 ---
 
-## FINANCIAL ECONOMETRICS
+## Introduction to Financial Econometrics
 
 ### In this page
 **[Brief Introduction to Research](#brief-introduction-to-research)**<br>
 **[History of Finance Research](#history-of-finance-research)**<br>
 **[Introduction to Financial Econometrics](#introduction-to-financial-econometrics)**<br>
 
+======
 
 ### Brief Introduction to Research
-
+------
 #### Research Process: Theoretical and Empirical Task
 
 *   Research is often viewed as a process that comprised of theoretical tasks and empirical tasks.
@@ -93,7 +94,7 @@ layout: default
     *   Mixed
 
 ### History of Finance Research
-
+------
 ![hist](/assets/img/financehistory.png)
 
 *   The old finance
@@ -125,7 +126,7 @@ layout: default
 
 
 ### Introduction to Financial Econometrics
-
+------
 Financial econometrics is an interdisciplinary subjects
 
 
