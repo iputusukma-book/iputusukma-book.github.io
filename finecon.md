@@ -5,9 +5,9 @@ layout: default
 ## FINANCIAL ECONOMETRICS
 
 ### In this page
-**[Brief Introduction to Research](#Brief-Introduction-to-Research)**<br>
-**[History of Finance Research](#History-of-Finance-Research)**<br>
-**[Introduction to Financial Econometrics](#Introduction-to-Financial-Econometrics)**<br>
+**[Brief Introduction to Research](##Brief-Introduction-to-Research)**<br>
+**[History of Finance Research](##History-of-Finance-Research)**<br>
+**[Introduction to Financial Econometrics](##Introduction-to-Financial-Econometrics)**<br>
 
 
 ### Brief Introduction to Research
