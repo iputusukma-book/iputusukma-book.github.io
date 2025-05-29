@@ -3,17 +3,15 @@ layout: default
 ---
 
 ## Introduction to Financial Econometrics
-======
 
 ### In this page
-------
 **[Brief Introduction to Research](#brief-introduction-to-research)**<br>
 **[History of Finance Research](#history-of-finance-research)**<br>
 **[Introduction to Financial Econometrics](#introduction-to-financial-econometrics)**<br>
 
+------
 
 ### Brief Introduction to Research
-------
 #### Research Process: Theoretical and Empirical Task
 
 *   Research is often viewed as a process that comprised of theoretical tasks and empirical tasks.
@@ -94,8 +92,10 @@ layout: default
     *   Laboratory
     *   Mixed
 
-### History of Finance Research
 ------
+
+### History of Finance Research
+
 ![hist](/assets/img/financehistory.png)
 
 *   The old finance
@@ -125,9 +125,10 @@ layout: default
         *   ESG [Porter & Kramer, 2006](https://hbr.org/2006/12/strategy-and-society-the-link-between-competitive-advantage-and-corporate-social-responsibility)
         *   Financial innovation [Merton, 1992](https://doi.org/10.1111/j.1745-6622.1992.tb00214.x) <br>
 
+------
 
 ### Introduction to Financial Econometrics
-------
+
 Financial econometrics is an interdisciplinary subjects
 
 
