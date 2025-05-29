@@ -3,6 +3,7 @@ layout: default
 ---
 
 ## Introduction to Financial Econometrics
+------
 
 ### In this page
 **[Brief Introduction to Research](#brief-introduction-to-research)**<br>
