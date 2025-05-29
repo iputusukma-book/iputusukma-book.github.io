@@ -13,6 +13,9 @@ layout: default
 *   All research, regardless the discipline, requires activities at conceptual level (or so-called theoretical studies)
 *   <u>Examples of empirical tasks:</u> data collection, constructing questionnaires, data analysis using computers.
 *   <u>Examples of theoretical tasks:</u> finding and constructing a precise problem, developing perspectives or models to represent the problem under scrutiny
+```
+gem install bundler
+```
 
 ### Research Process: Research and Knowledge
 
