@@ -14,7 +14,7 @@ layout: default
 **[Market Microstructure]()**<br>
 **[Behavioral Finance]()**<br>
 **[Agency Theory]()**<br>
-**[CapitalStructure]()**<br>
+**[Capital Structure]()**<br>
 **[FinTech and Financing Constraint]()**<br>
 **[Dividend Policy]()**<br>
 
