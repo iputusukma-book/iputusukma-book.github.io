@@ -18,7 +18,6 @@ layout: default
 **[FinTech and Financing Constraint]()**<br>
 **[Dividend Policy]()**<br>
 
-------
 
 
 [back](./)
