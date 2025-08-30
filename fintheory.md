@@ -3,9 +3,8 @@ layout: default
 ---
 
 ## Finance Theory
-------
 
-### Stack of Topics in Our Class
+### Stack of Topics in Finance Theory Class
 **[The Building Block of Modern Finance Theory](https://iputusukma-book.github.io/fintheory_1)**<br>
 **[Capital Asset Pricing Model]()**<br>
 **[Fama French 3 Factor Model]()**<br>
@@ -14,13 +13,12 @@ layout: default
 **[Efficient Market Hypothesis]()**<br>
 **[Market Microstructure]()**<br>
 **[Behavioral Finance]()**<br>
+**[Agency Theory]()**<br>
+**[CapitalStructure]()**<br>
+**[FinTech and Financing Constraint]()**<br>
+**[Dividend Policy]()**<br>
+
 ------
-
-
-
-
-------
-
 
 
 [back](./)
