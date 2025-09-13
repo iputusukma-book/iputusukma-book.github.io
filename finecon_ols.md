@@ -1,5 +1,12 @@
+---
 layout: default
 ---
+
+### In this page
+**[Basic Linear Regression](#basic-linear-regression)**<br>
+**[Simple Linear Regression: Example of CAPM Regression](#simple-linear-regression-:-example-of-CAPM-regression)**<br>
+**[Linear Regression: Example of Day-of-the-week Effect in Stock Return](#linear-regression-:-example-of-day-of-the-week-effect-in-stock-return)**<br>
+
 
 ## Basic Linear Regression
 
@@ -97,7 +104,7 @@ ggplot(returns_df, aes(x = Index, y = Stock)) +
 
 ```
 
-## Linear Regression: Example of Day-of-the-week Effect in Stock Return
+## Linear Regression: Example of Day of the week Effect in Stock Return
 
 The day-of-the-week effect is a well-documented calendar anomaly in financial markets where stock returns systematically vary depending on the day of the week—contradicting the Efficient Market Hypothesis, which assumes returns should be random and unpredictable. Common patterns observed globally for this kind of anomaly are:
 * Monday Effect: Returns tend to be lower or negative on Mondays. This has been attributed to investor pessimism over the weekend or delayed reaction to bad news.
