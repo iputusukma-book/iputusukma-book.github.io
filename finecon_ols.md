@@ -45,10 +45,7 @@ colnames(data) <- c("Stock", "Index")
 
 # Calculate daily returns
 returns <- na.omit(ROC(data, type = "discrete"))
-returns_df <- data.frame(Date = index(returns), coredata(returns))
-
-tail(returns_df)
-
+returns_df <- data.frame(Date = index(returns), coredata(returns)
 
 
 summary_stats <- returns_df %>%
@@ -60,6 +57,12 @@ summary_stats <- returns_df %>%
     Correlation = cor(Stock, Index)
   )
 print(summary_stats)
+
+# Linear regression: Stock ~ Index
+beta_model <- lm(Stock ~ Index, data = returns_df)
+summary(beta_model)
+summary(beta_model)$coefficients
+label <- coef(beta_model)["Index"]
 
 
 # Time series plot
@@ -73,13 +76,8 @@ ggplot(returns_df, aes(x = Date)) +
 ggplot(returns_df, aes(x = Index, y = Stock)) +
   geom_point(alpha = 0.5) +
   geom_smooth(method = "lm", se = FALSE, color = "blue") +
-  labs(title = "Beta Estimation", x = "Index Return", y = "Stock Return") +
+  labs(title = paste("Beta Estimation: ",sprintf("%.3f",label)), x = "Index Return", y = "Stock Return") +
   theme_minimal()
-
-# Linear regression: Stock ~ Index
-beta_model <- lm(Stock ~ Index, data = returns_df)
-summary(beta_model)
-summary(beta_model)$coefficients
 
 
 
