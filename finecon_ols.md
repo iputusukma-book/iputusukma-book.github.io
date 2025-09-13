@@ -182,13 +182,13 @@ summary(regression_model)
 
 ### Regress the stock return with day dummy variables as regressors and present the result
 
-Our hypothesis for this case study is that Monday return is negative:
-$H_0$ : Monday Return $>=$0
-$H_a$ : Monday Return $<$ 0
+* Our hypothesis for this case study is that Monday return is negative:
+   - $H_0$ : Monday Return $>=$0
+   - $H_a$ : Monday Return $<$ 0
 
-Our second hypothesis is that Friday return is positive:
-$H_0$ : Friday Return $<=$0
-$H_a$ : Friday Return $>$ 0
+* Our second hypothesis is that Friday return is positive:
+   - $H_0$ : Friday Return $<=$0
+   - $H_a$ : Friday Return $>$ 0
 
 The regression result could be interpreted as follows:
 | Variable     | Estimate (p-value)| Interpretation |
@@ -199,9 +199,9 @@ The regression result could be interpreted as follows:
 | is_Thursday  | 0.0010744 (0.196)   | Thursday return is 0.0010744 higher than Monday |
 | is_Friday    | 0.0002241 (0.788)    | Friday return is 0.0002241 higher than Monday |
 
-*Albeit one of the coefficients are statistically significant (all p-values > 0.05), meaning we cannot confidently say these differences are real rather than random noise. Moreover, we fail to reject H₀. 
-*The Monday return is negative in point estimate at -0.0001974, but not statistically significant with p-value 0.736. So, there's no strong evidence that Monday return is truly negative. 
-*Furthermmore, we also fail to reject H₀ for Friday return. The Friday return is positive in estimate at 0.0002241, but not statistically significant with p-value 0.788. So, there's no strong evidence that Friday return is truly positive.
+* Albeit one of the coefficients are statistically significant (all p-values > 0.05), meaning we cannot confidently say these differences are real rather than random noise. Moreover, we fail to reject H₀. 
+* The Monday return is negative in point estimate at -0.0001974, but not statistically significant with p-value 0.736. So, there's no strong evidence that Monday return is truly negative. 
+* Furthermmore, we also fail to reject H₀ for Friday return. The Friday return is positive in estimate at 0.0002241, but not statistically significant with p-value 0.788. So, there's no strong evidence that Friday return is truly positive.
 
 
 
