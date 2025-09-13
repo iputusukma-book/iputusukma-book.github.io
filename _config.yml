@@ -1,7 +1,7 @@
 title: I Putu Sukma book
 logo: /assets/img/ipsh_logo.png
 email: iputusukma@pm.me
-#description: ---------
+description: ---------
 color-scheme: auto
 plugins:
   - jekyll-sitemap
