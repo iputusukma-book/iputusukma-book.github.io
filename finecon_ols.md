@@ -4,8 +4,8 @@ layout: default
 
 ### In this page
 **[Basic Linear Regression](#basic-linear-regression)**<br>
-**[Simple Linear Regression: Example of CAPM Regression](#simple-linear-regression-:-example-of-CAPM-regression)**<br>
-**[Linear Regression: Example of Day-of-the-week Effect in Stock Return](#linear-regression-:-example-of-day-of-the-week-effect-in-stock-return)**<br>
+**[Simple Linear Regression: Example of CAPM Regression](#simple-linear-regression-example-of-CAPM-regression)**<br>
+**[Linear Regression: Example of Day-of-the-week Effect in Stock Return](#linear-regression-example-of-day-of-the-week-effect-in-stock-return)**<br>
 
 
 ## Basic Linear Regression
@@ -13,7 +13,7 @@ layout: default
 I create a cheatsheet about Ordinary Least Square (OLS) that could be accessed through this [link](https://github.com/iputusukma-book/iputusukma-book.github.io/blob/7ec61bd675f022b00402be47498db23185d58a53/ipsh_finecon_linear%20regression.pdf). In order to provide a go-through explanation about simple linear regression, I also create a spreadsheet explaining the entire process of linear regression (that is happen on the backend of your statistical software). This spreadsheet could be accessed through this [link](https://drive.google.com/uc?export=download&id=19tnfTfIQ-JDamw6QiuE-2pNgNY5k84dw).
 
 
-## Simple Linear Regression: Example of CAPM Regression
+## Simple Linear Regression Example of CAPM Regression
 
 To give a context on applying simple linear regression in financial economics, I provide a follow-through simulation of CAPM regression using R language as follows. The stock ticker and index ticker is discretionary and for this simulation I use `BBCA.JK` and `^JKSE` respectively.
 
@@ -104,7 +104,7 @@ ggplot(returns_df, aes(x = Index, y = Stock)) +
 
 ```
 
-## Linear Regression: Example of Day of the week Effect in Stock Return
+## Linear Regression Example of Day of the week Effect in Stock Return
 
 The day-of-the-week effect is a well-documented calendar anomaly in financial markets where stock returns systematically vary depending on the day of the week—contradicting the Efficient Market Hypothesis, which assumes returns should be random and unpredictable. Common patterns observed globally for this kind of anomaly are:
 * Monday Effect: Returns tend to be lower or negative on Mondays. This has been attributed to investor pessimism over the weekend or delayed reaction to bad news.
