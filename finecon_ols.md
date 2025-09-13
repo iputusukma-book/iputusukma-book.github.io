@@ -202,7 +202,7 @@ summary(regression_model)
 
 The regression result could be interpreted as follows:
 
-| Variable     | Estimate (p-value)   | Interpretation                                   |
+| Variable     | Estimate             | Interpretation                                   |
 | ------------ | -------------------- | ------------------------------------------------ |
 | Intercept    | -0.0001974 (0.736)   | Average return on Monday                         |
 | is_Tuesday   | 0.0001395 (0.865)    | Tuesday return is 0.0001395 higher than Monday   |
