@@ -6,7 +6,7 @@ layout: default
 
 ### Stack of Topics in Finance Theory Class
 **[The Building Block of Modern Finance Theory](https://iputusukma-book.github.io/fintheory_syllabus_finance_building_block.pdf)**<br>
-**[Modern Portfolio Theory and Capital Asset Pricing Model](https://github.com/iputusukma-book/iputusukma-book.github.io/blob/6a9d871a9f511ad1804192c95e58ff8cbaf16023/portfolio_and_capm.md)**<br>
+**[Modern Portfolio Theory and Capital Asset Pricing Model](https://iputusukma-book.github.io/portfolio_and_capm)**<br>
 **[Fama French 3 Factor Model]()**<br>
 **[Carhart 4 Factor Model]()**<br>
 **[Fama French 5 Factor Model]()**<br>
