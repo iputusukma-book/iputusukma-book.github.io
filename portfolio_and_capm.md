@@ -7,7 +7,7 @@ layout: default
 
 * The presentation and lecture notes for modern portfolio theory and introduction to Capital Asset Pricing Model could be acessed through this [link](https://iputusukma-book.github.io/fintheory_markowitz_and_sharpeCAPM.pdf).
 * The Harry Markowitz (1952) and Sharpe (1964) are available in this [repository](https://s.id/ipsh_fintheory_odd25). You also could access additional material regarding CAPM and single-index model from [Prof. Alex Shapiro](https://pages.stern.nyu.edu/~ashapiro/) in the same repository.
-* In order to give you a hands-on material to understand the portfolio construction using 2-assets and 3-assets as well as employing both randomize approach and linear approach, I create an excel spreadsheet containing those portfolio simulation and visual depiction of Capital Market Line (CML) and Security Market Line (SML) that could be accessed through this [link](https://github.com/iputusukma-book/iputusukma-book.github.io/blob/31b6c003c59c395cd7de0ff231147fb7af2ecabe/ipsh_fintheory_asset%20pricing%20in%20excel.xlsx).
+* In order to give you a hands-on material to understand the portfolio construction using 2-assets and 3-assets as well as employing both randomize approach and linear approach, I create an excel spreadsheet containing those portfolio simulation and visual depiction of Capital Market Line (CML) and Security Market Line (SML) that could be accessed through this [link](https://github.com/iputusukma-book/iputusukma-book.github.io/blob/c2ae0a06144b1abb32cdb68323d7a269be0576b9/ipsh_asset_pricing_in_excel.xlsx).
 * With regards to the use of R in Financial Econometric class, I also provide you a simple code for efficient frontier and CAL simulation using R language as follows.
   
 ```R
