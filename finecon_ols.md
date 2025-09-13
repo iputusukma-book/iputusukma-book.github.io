@@ -38,7 +38,7 @@ end_date <- as.Date("2019-12-31")
 ```
 
 
-### Retrieve the data using == getSymbols ==
+### Retrieve the data using `getSymbols` command
 
 ```R
 # Get data
