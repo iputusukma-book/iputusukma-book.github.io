@@ -79,6 +79,4 @@ ggplot(returns_df, aes(x = Index, y = Stock)) +
   labs(title = paste("Beta Estimation: ",sprintf("%.3f",label)), x = "Index Return", y = "Stock Return") +
   theme_minimal()
 
-
-
 ```
