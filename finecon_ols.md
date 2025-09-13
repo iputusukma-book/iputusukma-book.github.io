@@ -44,7 +44,6 @@ getSymbols(index_ticker, src = "yahoo", from = start_date, to = end_date)
 stock_prices <- Ad(BBCA.JK)
 index_prices <- Ad(JKSE)
 ```
-![img](/assets/img/dfstockandindices.jpg)
 
 ### Combine the data using `merge` command
 ```R
@@ -52,8 +51,6 @@ index_prices <- Ad(JKSE)
 data <- merge(stock_prices, index_prices, join = "inner")
 colnames(data) <- c("Stock", "Index")
 ```
-![img](/assets/img/dfcapm.jpg)
-
 
 ### Calculate daily returns and descriptive statistics 
 ```R
@@ -72,8 +69,6 @@ summary_stats <- returns_df %>%
   )
 print(summary_stats)
 ```
-![img](/assets/img/dfreturn.jpg)
-![img](/assets/img/summarystats.jpg)
 
 ### Estimating beta parameters using `lm` command 
 ```R
@@ -84,7 +79,6 @@ summary(beta_model)$coefficients
 
 label <- coef(beta_model)["Index"]  # --- assign the label for plot title
 ```
-![img](/assets/img/regressioncoeff.jpg)
 
 ### Plotting the scatter plot and best-fit line 
 ```R
@@ -103,4 +97,3 @@ ggplot(returns_df, aes(x = Index, y = Stock)) +
   theme_minimal()
 
 ```
-![img](/assets/img/capmreg.jpg)
