@@ -2,6 +2,9 @@
 layout: default
 ---
 
+## Linear Regression
+----
+
 ### In this page
 **[Basic Linear Regression](#basic-linear-regression)**<br>
 **[Simple Linear Regression: Example of CAPM Regression](#simple-linear-regression-example-of-CAPM-regression)**<br>
