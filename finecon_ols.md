@@ -3,16 +3,13 @@ layout: default
 ---
 
 ## Basic Linear Regression
-------
 
-* I create a cheatsheet about Ordinary Least Square (OLS) that could be accessed through this [link](https://github.com/iputusukma-book/iputusukma-book.github.io/blob/7ec61bd675f022b00402be47498db23185d58a53/ipsh_finecon_linear%20regression.pdf).
-
-* In order to provide a go-through explanation about simple linear regression, I create a spreadsheet explaining the entire process of linear regression (that is happen on the backend of your statistical software). This spreadsheet could be accessed through this [link](https://drive.google.com/uc?export=download&id=19tnfTfIQ-JDamw6QiuE-2pNgNY5k84dw).
+I create a cheatsheet about Ordinary Least Square (OLS) that could be accessed through this [link](https://github.com/iputusukma-book/iputusukma-book.github.io/blob/7ec61bd675f022b00402be47498db23185d58a53/ipsh_finecon_linear%20regression.pdf). In order to provide a go-through explanation about simple linear regression, I also create a spreadsheet explaining the entire process of linear regression (that is happen on the backend of your statistical software). This spreadsheet could be accessed through this [link](https://drive.google.com/uc?export=download&id=19tnfTfIQ-JDamw6QiuE-2pNgNY5k84dw).
 
 
 ## Simple Linear Regression: Example of CAPM Regression
-------
-* To give a context on applying simple linear regression in financial economics, I provide a follow-through simulation of CAPM regression using R language as follows.
+
+To give a context on applying simple linear regression in financial economics, I provide a follow-through simulation of CAPM regression using R language as follows. The stock ticker and index ticker is discretionary and for this simulation I use `BBCA.JK` and `^JKSE` respectively.
 
 ### Installing and activate packages
 
@@ -37,9 +34,7 @@ end_date <- as.Date("2019-12-31")
 
 ```
 
-
 ### Retrieve the data using `getSymbols` command
-
 ```R
 # Get data
 getSymbols(stock_ticker, src = "yahoo", from = start_date, to = end_date) 
@@ -48,11 +43,20 @@ getSymbols(index_ticker, src = "yahoo", from = start_date, to = end_date)
 # Extract adjusted closing prices
 stock_prices <- Ad(BBCA.JK)
 index_prices <- Ad(JKSE)
+```
+![img](/assets/img/dfstockandindices.jpg)
 
+### Combine the data using `merge` command
+```R
 # Merge Data
 data <- merge(stock_prices, index_prices, join = "inner")
 colnames(data) <- c("Stock", "Index")
+```
+![img](/assets/img/dfcapm.jpg)
 
+
+### Calculate daily returns and descriptive statistics 
+```R
 # Calculate daily returns
 returns <- na.omit(ROC(data, type = "discrete"))
 returns_df <- data.frame(Date = index(returns), coredata(returns)
@@ -67,14 +71,23 @@ summary_stats <- returns_df %>%
     Correlation = cor(Stock, Index)
   )
 print(summary_stats)
+```
+![img](/assets/img/dfreturn.jpg)
+![img](/assets/img/summarystats.jpg)
 
+### Estimating beta parameters using `lm` command 
+```R
 # Linear regression: Stock ~ Index
 beta_model <- lm(Stock ~ Index, data = returns_df)
 summary(beta_model)
 summary(beta_model)$coefficients
-label <- coef(beta_model)["Index"]
 
+label <- coef(beta_model)["Index"]  # --- assign the label for plot title
+```
+![img](/assets/img/regressioncoeff.jpg)
 
+### Plotting the scatter plot and best-fit line 
+```R
 # Time series plot
 ggplot(returns_df, aes(x = Date)) +
   geom_line(aes(y = Stock, color = "Stock")) +
@@ -90,4 +103,4 @@ ggplot(returns_df, aes(x = Index, y = Stock)) +
   theme_minimal()
 
 ```
-![CAPMReg](/assets/img/capmreg.jpg)
+![img](/assets/img/capmreg.jpg)
