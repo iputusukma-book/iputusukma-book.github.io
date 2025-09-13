@@ -190,7 +190,7 @@ summary(regression_model)
 ![img](/assets/img/regress.jpg)
 
 
-### Regress the stock return with day dummy variables as regressors and present the result
+### Result and Interpretation
 
 * Our hypothesis for this case study is that Monday return is negative:
    - $H_0$ : Monday Return $>=$0
@@ -201,14 +201,13 @@ summary(regression_model)
    - $H_a$ : Friday Return $>$ 0
 
 The regression result could be interpreted as follows:
-| Variable     | Estimate (p-value)| Interpretation |
-| :---         |           ---: | :---           |
-| Intercept    | -0.0001974 (0.736)   | Average return on Monday |
-| is_Tuesday   | 0.0001395 (0.865)    | Tuesday return is 0.0001395 higher than Monday |
-| is_Wednesday | 0.0013089 ( 0.114)   | Wednesday return is 0.0013089 higher than Monday |
-| is_Thursday  | 0.0010744 (0.196)   | Thursday return is 0.0010744 higher than Monday |
-| is_Friday    | 0.0002241 (0.788)    | Friday return is 0.0002241 higher than Monday |
+* Intercept    | -0.0001974 (0.736)   | Average return on Monday 
+* is_Tuesday   | 0.0001395 (0.865)    | Tuesday return is 0.0001395 higher than Monday 
+* is_Wednesday | 0.0013089 ( 0.114)   | Wednesday return is 0.0013089 higher than Monday 
+* is_Thursday  | 0.0010744 (0.196)    | Thursday return is 0.0010744 higher than Monday 
+* is_Friday    | 0.0002241 (0.788)    | Friday return is 0.0002241 higher than Monday 
 
+### Conclusion 
 * Albeit one of the coefficients are statistically significant (all p-values > 0.05), meaning we cannot confidently say these differences are real rather than random noise. Moreover, we fail to reject H₀. 
 * The Monday return is negative in point estimate at -0.0001974, but not statistically significant with p-value 0.736. So, there's no strong evidence that Monday return is truly negative. 
 * Furthermore, we also fail to reject H₀ for Friday return. The Friday return is positive in estimate at 0.0002241, but not statistically significant with p-value 0.788. So, there's no strong evidence that Friday return is truly positive.
