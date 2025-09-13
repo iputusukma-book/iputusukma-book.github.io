@@ -208,7 +208,7 @@ The regression result could be interpreted as follows:
 
 * Albeit one of the coefficients are statistically significant (all p-values > 0.05), meaning we cannot confidently say these differences are real rather than random noise. Moreover, we fail to reject H₀. 
 * The Monday return is negative in point estimate at -0.0001974, but not statistically significant with p-value 0.736. So, there's no strong evidence that Monday return is truly negative. 
-* Furthermmore, we also fail to reject H₀ for Friday return. The Friday return is positive in estimate at 0.0002241, but not statistically significant with p-value 0.788. So, there's no strong evidence that Friday return is truly positive.
+* Furthermore, we also fail to reject H₀ for Friday return. The Friday return is positive in estimate at 0.0002241, but not statistically significant with p-value 0.788. So, there's no strong evidence that Friday return is truly positive.
 
 
 
