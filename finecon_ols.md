@@ -1,4 +1,3 @@
-<img width="1330" height="676" alt="image" src="https://github.com/user-attachments/assets/04f9d1a7-8e14-42d2-bc20-a5fab0b16e25" />---
 layout: default
 ---
 
@@ -128,7 +127,7 @@ getSymbols("^JKSE", from = Sys.Date() - years(5), to = Sys.Date(), src = "yahoo"
 indices_data <- JKSE
 head(indices_data)
 ```
-![img](/assets/img/indices)
+![img](/assets/img/indices.jpg)
 
 ### Calculate stock return and omit the NA value
 ```R
@@ -143,7 +142,7 @@ returns <- na.omit(returns)
 # Show the data
 returns
 ```
-![img](/assets/img/returns)
+![img](/assets/img/returns.jpg)
 
 ### Create day-of-the-week dummy variables using `lubridate::wday` and combine the data
 ```R
@@ -168,7 +167,7 @@ df <- df %>%
 
 tail(df)
 ```
-![img](/assets/img/withdummy)
+![img](/assets/img/withdummy.jpg)
 
 ### Regress the stock return with day dummy variables as regressors and present the result
 ```R
@@ -178,7 +177,7 @@ regression_model <- lm(Returns ~ is_Tuesday + is_Wednesday + is_Thursday + is_Fr
 # The `summary()` function provides a detailed output of the regression results, including coefficients, standard errors, t-statistics, p-values, and R-squared.
 summary(regression_model)
 ```
-![img](/assets/img/regress)
+![img](/assets/img/regress.jpg)
 
 
 ### Regress the stock return with day dummy variables as regressors and present the result
