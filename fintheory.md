@@ -18,6 +18,17 @@ layout: default
 **[FinTech and Financing Constraint]()**<br>
 **[Dividend Policy]()**<br>
 
+### Required Reading
+* Savings and Investment in Perfect Capital Markets: [Fisher (1930)](http://tankona.free.fr/fisher1930.pdf)
+* Portfolio Theory: [Harry Markowitz (1952)](https://www.jstor.org/stable/2975974)
+* Capital Structure Theory: [Modigliani & Miller (1958)](https://www.jstor.org/stable/1809766)
+* Dividend Policy: [Miller & Modigliani (1961)](https://www.jstor.org/stable/2351143)
+* Asset Pricing Models: [Sharpe (1964)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.1964.tb02865.x)
+* Efficient Capital Market Theory: [Fama (1970)](https://www.jstor.org/stable/2325486)
+* Option Pricing Theory: [Black-Scholes (1973)](https://www.jstor.org/stable/1831029)
+* Agency Theory: [Jensen & Meckling (1976)](https://www.sciencedirect.com/science/article/pii/0304405X7690026X) 
 
+### Seminal Paper and Additional Material Repository
+You can access the articles that are going to be used for Financial Theory class in this [repository](https://s.id/ipsh_fintheory_odd25). You also could access additional material from [Prof. Alex Shapiro](https://pages.stern.nyu.edu/~ashapiro/) in the same repository.
 
 [back](./)
