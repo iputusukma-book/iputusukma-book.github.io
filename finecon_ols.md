@@ -13,7 +13,7 @@ layout: default
 
 ## Basic Linear Regression
 
-I create a cheatsheet about Ordinary Least Square (OLS) that could be accessed through this [link](https://github.com/iputusukma-book/iputusukma-book.github.io/blob/7ec61bd675f022b00402be47498db23185d58a53/ipsh_finecon_linear%20regression.pdf). In order to provide a go-through explanation about simple linear regression, I also create a spreadsheet explaining the entire process of linear regression (that is happen on the backend of your statistical software). This spreadsheet could be accessed through this [link](https://drive.google.com/uc?export=download&id=19tnfTfIQ-JDamw6QiuE-2pNgNY5k84dw).
+I create a cheatsheet about Ordinary Least Square (OLS) that could be accessed through this [link](https:///iputusukma-book.github.io/ipsh_finecon_linear%20regression.pdf). In order to provide a go-through explanation about simple linear regression, I also create a spreadsheet explaining the entire process of linear regression (that is happen on the backend of your statistical software). This spreadsheet could be accessed through this [link](https://drive.google.com/uc?export=download&id=19tnfTfIQ-JDamw6QiuE-2pNgNY5k84dw).
 
 
 ## Simple Linear Regression Example of CAPM Regression
