@@ -192,13 +192,11 @@ summary(regression_model)
 
 ### Result and Interpretation
 
-* Our hypothesis for this case study is that Monday return is negative:
-   - Ho : Monday Return more than and equal to 0
-   - Ha : Monday Return less than zero
-
-* Our second hypothesis is that Friday return is positive:
-   - Ho : Friday Return less than equal to 0
-   - Ha : Friday Return more than 0
+Our first hypothesis for this case study is that Monday return is negative and ur second hypothesis is that Friday return is positive.
+Ho : Monday Return $ \geq $ 0
+Ha : Monday Return < 0
+Ho : Friday Return $ \leq $ 0
+Ha : Friday Return > 0
 
 The regression result could be interpreted as follows:
 
