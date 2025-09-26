@@ -10,7 +10,7 @@ layout: default
 **[Fama French 3 Factor Model]()**<br>
 **[Carhart 4 Factor Model]()**<br>
 **[Fama French 5 Factor Model]()**<br>
-**[Efficient Market Hypothesis]()**<br>
+**[Efficient Market Hypothesis](https://iputusukma-book.github.io/emh_and_crititcs)**<br>
 **[Market Microstructure]()**<br>
 **[Behavioral Finance]()**<br>
 **[Agency Theory]()**<br>
