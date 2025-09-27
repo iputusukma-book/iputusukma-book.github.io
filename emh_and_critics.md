@@ -19,7 +19,19 @@ layout: default
   * To assess the level of market efficiency need to know the securities' value,  which requires knowing how securities are priced. This make rise on the <u>joint-test problem<u/> in the empirical test of EMH.
   * **Joint-test problem** assert that market Efficiency per se is not testable because the question whether price reflects a given piece of information always depends on the model of asset pricing that the researcher is using.  It is always a joint test of market efficiency and the used pricing model ([Fama, 1970](https://www.jstor.org/stable/2325486) and [Fama (1991)](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.1991.tb04636.x)).
   * Despite the joint-test problem, tests of market efficiency, i.e., scientific search for inefficiencies, improves our understanding of the behavior of returns across time and securities. It helps to improve existing asset pricing models and the view and practices of financial-markets professionals.
-* The link <u>random walk</u>: [Malkiel (2003)](https://www.princeton.edu/~ceps/workingpapers/91malkiel.pdf) mentioned the association between EMH and random walk - a term that loosely used in the finance literature to characterize a price series where all subsequent price changes represent random departures from previous prices. If information flows freely and is immediately reflected in stock prices, then tomorrow’s price change will only reflect tomorrow’s news. By definition, news is unpredictable, hence, the resulting price changes must also be unpredictable and random. This leads to the conclusion that prices "fully reflect all known information," meaning even an uninformed investor could get a fair return - as that achieved by the experts - by buying a diversified portfolio.
+* The link to <u>random walk</u>: [Malkiel (2003)](https://www.princeton.edu/~ceps/workingpapers/91malkiel.pdf) mentioned the association between EMH and random walk - a term that loosely used in the finance literature to characterize a price series where all subsequent price changes represent random departures from previous prices. If information flows freely and is immediately reflected in stock prices, then tomorrow’s price change will only reflect tomorrow’s news. By definition, news is unpredictable, hence, the resulting price changes must also be unpredictable and random. This leads to the conclusion that prices "fully reflect all known information," meaning even an uninformed investor could get a fair return - as that achieved by the experts - by buying a diversified portfolio.
+
+### Type of Market Efficiency
+
+**Weak-form efficient / Lack of Predictability**
+| Form of Efficiency     | Information Reflected in Price             | Implication for Investors                        |
+| ---------------------- | ------------------------------------------ | ------------------------------------------------ |
+| Weak-form efficient    | All information contained in market trading data (past prices, volume, dividends, interest rates, etc.)| Technical Analysis (using past price patterns) cannot consistently generate abnormal returns. Future price changes are random and driven by new information.|
+
+
+> Price reflects all information contained in market trading data (past prices, volume, dividends, interest rates, etc.). So an investor can not use past prices to identify mispriced securities. Technical analysis:
+>
+
 
 ### Investor Rationality and Efficient Market
 
@@ -54,7 +66,7 @@ EMH faces several critics which is largely driven by two main groups: behavioral
 * **Irrefutabl Cases of Market Irrationality** — Critics argue that certain historical events provide overwhelming evidence that markets can be dominated by irrationality and that prices can become disconnected from rational valuations. The main examples are:
   * <u>The Market Crash of October 1987</u> — Critics allege that the market lost about a third of its value with "essentially no change in the general economic environment," which they believe proves that psychological factors, not rational calculations, were the cause.
   * <u>The Internet Bubble</u> — It is widely believed by critics that the outlandish valuations of internet stocks in the late 1990s can only be explained by the behaviour of irrational investors.
-  * <u>Specific Pricing Anomalies</u> — Critics point to clear, though often temporary, mispricings, such as the spin-off of Palm Pilot from 3-Com (see [Malkiel (2003)](https://www.princeton.edu/~ceps/workingpapers/91malkiel.pdf)), where the market value of the subsidiary implied a negative value for the parent company's core business. Other examples include stock price co-movement due to ticker symbol confusion.
+  * <u>Specific Pricing Anomalies</u> — Critics point to clear, though often temporary, mispricings, such as the spin-off of Palm Pilot from 3-Com, see [Malkiel (2003)](https://www.princeton.edu/~ceps/workingpapers/91malkiel.pdf), where the market value of the subsidiary implied a negative value for the parent company's core business. Other examples include stock price co-movement due to ticker symbol confusion.
 
 ```R
 ```
