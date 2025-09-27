@@ -38,6 +38,7 @@ layout: default
 ### Test of Market Efficiency
 
 * **Testing weak-form efficiency**: The weak-form efficient suggests that the current stock price reflects all information contained in past prices and trading volumes. Tests for this form check if historical data can be used to predict future returns and generate abnormal profits.
+  
   * **Method  — Serial Correlation / Auto-Correlation Test**
       * Study  —  [Fama (1965)](https://www.jstor.org/stable/4469865)
       * Goal  —  To test if current returns are correlated with past returns.
@@ -50,6 +51,34 @@ layout: default
       * Study  —  [Alexander (1961)](https://www.proquest.com/openview/36fb3a6f0ebfdd90b9b7699504cc512b/1?pq-origsite=gscholar&cbl=35191)
       * Goal  —  Simulating trading strategies to see if they generate profits exceeding a simple buy-and-hold strategy.
       * Finding  —  Early tests often found some profitability, but these profits usually disappeared once transaction costs were factored in, ultimately supporting weak form efficiency.
+
+* **Testing semi-strong-form efficiency**: The semi-strong-form efficient suggests that prices instantly reflect all publicly available information. These tests examine whether investors can earn abnormal returns by trading on information released to the public.
+  * **Method  — Event Studies**
+      * Study  —  [Ball and Brown (1968)](https://www.jstor.org/stable/2490232)
+      * Goal  —  Measures Abnormal Returns (ARs) around a specific public event (e.g., earnings announcements, stock splits, dividend changes, mergers). Calculates the difference between the actual stock return and the expected return (using a model like CAPM or the Market Model).
+      * Finding  —  That stock prices adjust almost immediately to the public release of annual earnings information, supporting the semi-strong form.
+  * **Method  — Studies of Investment Performance (Active vs. Passive)**
+      * Study  —  [Jensen (1968)](https://www.jstor.org/stable/2325404)
+      * Goal  —  Measures the risk-adjusted returns of professionally managed mutual funds using Jensen's Alpha.
+      * Finding  —  Showed that most mutual funds did not earn positive excess returns (alpha) after fees, supporting the idea that professional research based on public information is futile.
+  * **Method  — Time-Series Tests of Public Information**
+      * Study  —  [Basu (1977)](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6261.1977.tb01979.x)
+      * Goal  —  Examines if publicly available financial ratios (like Price-to-Earnings or P/E) can predict future abnormal returns.
+      * Finding  —  Found that stocks with low P/E ratios generated superior risk-adjusted returns, challenging the semi-strong form by identifying the P/E Anomaly.
+  * **Method  — Analysis of Fund/Expert Performance (Extended)**
+      * Study  —  [Malkiel (1995)](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6261.1995.tb04795.x)
+      * Goal  —  A long-term analysis of professional money managers. It indirectly tests the strong form by checking if even the most informed, skilled experts can profit consistently.
+      * Finding  —  Generally confirmed that the majority of actively managed funds underperform simple passive index funds after fees.
+
+* **Testing strong-form efficiency**: The strong-form efficient suggests that prices reflect all information, public and private (insider information). Tests for this form examine if any group of investors, including corporate insiders, can consistently earn abnormal returns.
+  * **Method  — Insider Trading Profitability**
+      * Study  —  [Jaffe (1974)](https://www.jstor.org/stable/2352458)
+      * Goal  —  Analyzes the public record of insider trades (reported to regulatory bodies) to see if insiders earned higher returns following their transactions.
+      * Finding  —  Found that insiders earned statistically significant abnormal returns, particularly when multiple insiders traded, rejecting the strong-form EMH.
+
+<u>The Joint Hypothesis Problem</u>
+> A crucial caveat in testing the EMH is the Joint Hypothesis Problem. All empirical tests of market efficiency are joint tests of two hypotheses: that the market is efficient with respect to a given information set and a specific asset pricing model (like the CAPM or Fama-French) correctly determines the expected (normal) return. <br>
+> If a test rejects the null hypothesis (i.e., finds abnormal returns), it is impossible to definitively know whether the market is truly inefficient or if the asset pricing model used to calculate the "expected return" is simply incorrect.
 
 
 
