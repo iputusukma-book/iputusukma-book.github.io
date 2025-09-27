@@ -124,7 +124,7 @@ EMH faces several critics which is largely driven by two main groups: behavioral
   * <u>The Internet Bubble</u> — It is widely believed by critics that the outlandish valuations of internet stocks in the late 1990s can only be explained by the behaviour of irrational investors.
   * <u>Specific Pricing Anomalies</u> — Critics point to clear, though often temporary, mispricings, such as the spin-off of Palm Pilot from 3-Com, see [Malkiel (2003)](https://www.princeton.edu/~ceps/workingpapers/91malkiel.pdf), where the market value of the subsidiary implied a negative value for the parent company's core business. Other examples include stock price co-movement due to ticker symbol confusion.
 
-### Defend of EMH
+### Defend on EMH
 
 Fama's later research to counter the arguments of behavioural economists and statisticians who claim markets are predictable.
 * **On Short-Term Anomalies and Event Studies** — When addressing claims that investors underreact to news, creating momentum, [Malkiel (2003)](https://www.princeton.edu/~ceps/workingpapers/91malkiel.pdf) cites [Fama (1998)](https://www.sciencedirect.com/science/article/abs/pii/S0304405X98000269). In that survey, Fama reviewed numerous "event studies" and found that underreaction to information was about as common as overreaction, and that post-event abnormal returns were just as frequent as reversals. Fama also showed that many of these "anomalies" tend to disappear when different models for risk or different statistical methods are used
