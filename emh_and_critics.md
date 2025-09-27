@@ -23,14 +23,17 @@ layout: default
 
 ### Type of Market Efficiency
 
-**Weak-form efficient / Lack of Predictability**
 | Form of Efficiency     | Information Reflected in Price             | Implication for Investors                        |
 | ---------------------- | ------------------------------------------ | ------------------------------------------------ |
-| Weak-form efficient    | All information contained in market trading data (past prices, volume, dividends, interest rates, etc.)| Technical Analysis (using past price patterns) cannot consistently generate abnormal returns. Future price changes are random and driven by new information.|
+| **Weak-form**   | All information contained in **market trading data** (past prices, volume, dividends, interest rates, etc.)| Technical Analysis (using past price patterns) cannot consistently generate abnormal returns. Future price changes are random and driven by new information.|
+| **Semi-strong-form**    |All **publicly available** information (including past market data, financial statements, news, press releases, etc.).|  information (including past market data, financial statements, news, press releases, etc.).	Fundamental Analysis (using public information about a company's value) cannot consistently generate abnormal returns. Only investors with non-public (private or inside) information could potentially gain an advantage.|
+| **Strong-form**    |All information, **both public and private** (including inside or confidential information).|No investor, not even company insiders, can consistently generate abnormal returns, as all relevant information is already priced into the security.|
 
+<u>Type of stock analysis</u>
+> **Technical analysis**  — Refers to the practice of using past patterns in stock prices
+(and trades) to identify future patterns in prices.
+> **Fundamental analysis**  — Refers to the practice of using financial statements, announcements, and other publicly available information about firms to pick stocks.
 
-> Price reflects all information contained in market trading data (past prices, volume, dividends, interest rates, etc.). So an investor can not use past prices to identify mispriced securities. Technical analysis:
->
 
 
 ### Investor Rationality and Efficient Market
