@@ -37,17 +37,16 @@ layout: default
 
 ### Test of Market Efficiency
 
-* **Testing weak-form efficiency**:
-  * The weak-form efficient suggests that the current stock price reflects all information contained in past prices and trading volumes. Tests for this form check if historical data can be used to predict future returns and generate abnormal profits.
-    * **Method  — Serial Correlation / Auto-Correlation Test**
+* **Testing weak-form efficiency**: The weak-form efficient suggests that the current stock price reflects all information contained in past prices and trading volumes. Tests for this form check if historical data can be used to predict future returns and generate abnormal profits.
+  * **Method  — Serial Correlation / Auto-Correlation Test**
       * Study  —  [Fama (1965)](https://www.jstor.org/stable/4469865)
       * Goal  —  To test if current returns are correlated with past returns.
       * Finding  —  Generally found correlation coefficients close to zero for daily data, supporting the random walk and weak form efficiency.
-    * **Method  — Runs Test**
+  * **Method  — Runs Test**
       * Study  —  [Fama (1965)](https://www.jstor.org/stable/4469865)
       * Goal  —  A non-parametric test to check if the number of successive price changes of the same sign (a "run") is statistically different from a random series.
       * Finding  —  The number of runs was often greater than expected, suggesting some short-term dependence, but not enough to consistently profit after transaction costs.
-    * **Method  — Filter Rules / Trading Rules**
+  * **Method  — Filter Rules / Trading Rules**
       * Study  —  [Alexander (1961)](https://www.proquest.com/openview/36fb3a6f0ebfdd90b9b7699504cc512b/1?pq-origsite=gscholar&cbl=35191)
       * Goal  —  Simulating trading strategies to see if they generate profits exceeding a simple buy-and-hold strategy.
       * Finding  —  Early tests often found some profitability, but these profits usually disappeared once transaction costs were factored in, ultimately supporting weak form efficiency.
