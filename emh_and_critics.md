@@ -86,7 +86,7 @@ layout: default
 
 The traditional EMH as formulated by Eugene Fama is built on a foundation that implies rational behaviour, particularly the concept of rapid information processing and the random walk. However, this view are opposed by scholars based on the argumentation that nvestors are often not rational, and this irrationality leads to market inefficiencies and predictable patterns.
 * **Psychological Biases** — Behaviouralists argue that investors are subject to "waves of optimism and pessimism", overconfidence, and "bandwagon effects". This irrational behaviour causes prices of an asset to deviate systematically from their fundamental values.
-• **Exploitable Patterns** — These critics believe that the actions of irrational investors create predictable patterns, such as long-run return reversals or the outperformance of "value" stocks, which can be exploited to earn excess returns. This directly contradicts the idea of an efficient market. Events like the October 1987 crash and the Internet bubble are often cited as overwhelming evidence that irrational investor behaviour can dominate the market.
+* **Exploitable Patterns** — These critics believe that the actions of irrational investors create predictable patterns, such as long-run return reversals or the outperformance of "value" stocks, which can be exploited to earn excess returns. This directly contradicts the idea of an efficient market. Events like the October 1987 crash and the Internet bubble are often cited as overwhelming evidence that irrational investor behaviour can dominate the market.
 
 [Malkiel (2003)](https://www.princeton.edu/~ceps/workingpapers/91malkiel.pdf) defends a more nuanced and pragmatic definition of market efficiency that does not require all investors to be rational.
 * **Efficiency Defined as "No Free Lunch** — Malkiel defines an efficient market as one that does not allow investors to earn above-average returns without accepting above-average risks. This is the "no $100 bills lying on the ground" principle.
@@ -117,5 +117,47 @@ EMH faces several critics which is largely driven by two main groups: behavioral
   * <u>The Internet Bubble</u> — It is widely believed by critics that the outlandish valuations of internet stocks in the late 1990s can only be explained by the behaviour of irrational investors.
   * <u>Specific Pricing Anomalies</u> — Critics point to clear, though often temporary, mispricings, such as the spin-off of Palm Pilot from 3-Com, see [Malkiel (2003)](https://www.princeton.edu/~ceps/workingpapers/91malkiel.pdf), where the market value of the subsidiary implied a negative value for the parent company's core business. Other examples include stock price co-movement due to ticker symbol confusion.
 
+
+### R Code for Testing Market Effciency
+
+**weak-Form Test using Runs Test**
+
+1. Install and load necessary packages (ignore if necessary packages are already installed)
 ```R
+install.packages(c("quantmod", "randtests"))
+library(quantmod)
+library(randtests)
 ```
+2. Define the ticker data, in this case we use Jakarta Composite Index (JCI) or JKSE in Yahoo!Finance and determine the start and end date. After that, fetch the JCI data from Yahoo!Finance using `quantmod::getSymbols()`
+```R
+TICKER <- "^JKSE"
+START_DATE <- "2015-01-01"
+END_DATE <- "2020-12-31"
+getSymbols(TICKER, from = START_DATE, to = END_DATE, auto.assign = TRUE)
+```
+3. Since effiency tests are typically performed on returns not price, we calculate daily logarithmic returns (rt = ln(Pt / Pt-1))
+```R
+jci_returns <- diff(log(Ad(JKSE)))
+jci_returns <- na.omit(jci_returns) # Remove the first NA value
+returns_vector <- as.vector(jci_returns)
+```
+4. Use these following code to take a quick look on the returns dataframe and vector
+```R
+head(jci_returns)
+tail(jci_returns)
+returns_vector
+```
+4. We use the `sign()` function to get +1 for positive returns, -1 for negative, and 0 for zero change. For the Runs Test, it's common to only check positive vs. negative changes, so we remove zero changes. Since the Runs Test requirement, we convert the data into vector.
+```R
+signs_vector <- sign(returns_vector)
+signs_vector_non_zero <- signs_vector[signs_vector != 0]
+runs_input_factor <- factor(signs_vector_non_zero)
+```
+5. Perform the Runs Test using `runs.test()` and print the result. The hypothesis is
+   > H0: The returns are random (weak-form efficient holds)
+```R
+signs_vector <- sign(returns_vector)
+signs_vector_non_zero <- signs_vector[signs_vector != 0]
+runs_input_factor <- factor(signs_vector_non_zero)
+```
+
