@@ -27,12 +27,30 @@ layout: default
 | ---------------------- | ------------------------------------------ | ------------------------------------------------ |
 | **Weak-form**   | All information contained in **market trading data** (past prices, volume, dividends, interest rates, etc.)| Technical Analysis (using past price patterns) cannot consistently generate abnormal returns. Future price changes are random and driven by new information.|
 | **Semi-strong-form**    |All **publicly available** information (including past market data, financial statements, news, press releases, etc.).|  information (including past market data, financial statements, news, press releases, etc.).	Fundamental Analysis (using public information about a company's value) cannot consistently generate abnormal returns. Only investors with non-public (private or inside) information could potentially gain an advantage.|
-| **Strong-form**    |All information, **both public and private** (including inside or confidential information).|No investor, not even company insiders, can consistently generate abnormal returns, as all relevant information is already priced into the security.|
+| **Strong-form**    |All information, **both public and private** (including inside or confidential information e.g., knowledge of future takeover bid, knowledge that earnings are going to be lower than expectation).|No investor, not even company insiders, can consistently generate abnormal returns, as all relevant information is already priced into the security.|
 
 <u>Type of stock analysis</u>
-> **Technical analysis**  — Refers to the practice of using past patterns in stock prices
-(and trades) to identify future patterns in prices.
-> **Fundamental analysis**  — Refers to the practice of using financial statements, announcements, and other publicly available information about firms to pick stocks.
+> **Technical analysis** — Refers to the practice of using past patterns in stock prices
+(and trades) to identify future patterns in prices. <br>
+> **Fundamental analysis** — Refers to the practice of using financial statements, announcements, and other publicly available information about firms to pick stocks.
+
+
+### Test of Market Efficiency
+
+* **Testing weak-form efficiency**:
+  * The weak-form efficient suggests that the current stock price reflects all information contained in past prices and trading volumes. Tests for this form check if historical data can be used to predict future returns and generate abnormal profits.
+    * **Method  — Serial Correlation / Auto-Correlation Test**
+      * Study  —  [Fama (1965)](https://www.jstor.org/stable/4469865)
+      * Goal  —  To test if current returns are correlated with past returns.
+      * Finding  —  Generally found correlation coefficients close to zero for daily data, supporting the random walk and weak form efficiency.
+    * **Method  — Runs Test**
+      * Study  —  [Fama (1965)](https://www.jstor.org/stable/4469865)
+      * Goal  —  A non-parametric test to check if the number of successive price changes of the same sign (a "run") is statistically different from a random series.
+      * Finding  —  The number of runs was often greater than expected, suggesting some short-term dependence, but not enough to consistently profit after transaction costs.
+    * **Method  — Filter Rules / Trading Rules**
+      * Study  —  [Alexander (1961)](https://www.proquest.com/openview/36fb3a6f0ebfdd90b9b7699504cc512b/1?pq-origsite=gscholar&cbl=35191)
+      * Goal  —  Simulating trading strategies to see if they generate profits exceeding a simple buy-and-hold strategy.
+      * Finding  —  Early tests often found some profitability, but these profits usually disappeared once transaction costs were factored in, ultimately supporting weak form efficiency.
 
 
 
