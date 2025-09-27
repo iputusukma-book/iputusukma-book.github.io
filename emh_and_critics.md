@@ -18,6 +18,7 @@ layout: default
   * To assess the level of market efficiency need to know the securities' value,  which requires knowing how securities are priced. This make rise on the <u>joint-test problem<u/> in the empirical test of EMH.
   * **Joint-test problem** asser that market Efficiency per se is not testable because the question whether price reflects a given piece of information always depends on the model of asset pricing that the researcher is using.  It is always a joint test of market efficiency and the used pricing model ([Fama, 1970](https://www.jstor.org/stable/2325486) and [Fama (1991)](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.1991.tb04636.x)).
   * Despite the joint-test problem, tests of market efficiency, i.e., scientific search for inefficiencies, improves our understanding of the behavior of returns across time and securities. It helps to improve existing asset pricing models and the view and practices of financial-markets professionals.
+* The link <u>random walk</u>: [Malkiel (2003)](https://www.princeton.edu/~ceps/workingpapers/91malkiel.pdf) mentioned the association between EMH and random walk - a term that loosely used in the finance literature to characterize a price series where all subsequent price changes represent random departures from previous prices. If information flows freely and is immediately reflected in stock prices, then tomorrow’s price change will only reflect tomorrow’s news. By definition, news is unpredictable, hence, the resulting price changes must also be unpredictable and random
   
 ```R
 ```
