@@ -14,7 +14,7 @@ layout: default
 **[Market Microstructure]()**<br>
 **[Behavioral Finance]()**<br>
 **[Agency Theory]()**<br>
-**[Capital Structure](https:///iputusukma-book.github.io/ipsh_capitalstructure.pdf))**<br>
+**[Capital Structure](https:///iputusukma-book.github.io/ipsh_capitalstructure.pdf)**<br>
 **[FinTech and Financing Constraint]()**<br>
 **[Dividend Policy]()**<br>
 
