@@ -10,6 +10,7 @@ layout: default
 **[Linear Regression](https://iputusukma-book.github.io/finecon_ols)**<br>
 **[Data Panel Regression]()**<br>
 **[Time Series Analysis]()**<br>
+**[ARCH GARCH: Volatility Modelling](https://iputusukma-book.github.io/arch)**<br>
 
 
 [back](./)
