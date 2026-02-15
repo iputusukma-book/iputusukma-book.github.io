@@ -10,7 +10,7 @@ Title  : Do executive facial trustworthiness have impact on IPO underpricing in 
 DOI    : [https://doi.org/10.1108/RBF-12-2023-0327](https://doi.org/10.1108/RBF-12-2023-0327)
 Author : I Putu Sukma Hendrawan (Corresponding Author) and Cynthia Afriani Utama (Thesis Supervisor)
 
-Purpose
+Purpose <br>
 This study aims to investigate the impact of facial-based perceived trustworthiness on stock valuation, particularly, in the initial public offering (IPO). IPO settings provide the opportunity to investigate whether information asymmetry resulting from company newness in the market would influence the incorporation of soft information in the form of executive facial trustworthiness in stock valuation.
 
 Design/methodology/approach
