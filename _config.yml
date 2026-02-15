@@ -19,12 +19,12 @@ sidebar:
   - name: Corporate Finance
     icon: <i class="fa-solid fa-chart-pie"></i>
     link: https://iputusukma-book.github.io/corpfin
-  - name: FInancial Reporting
+  - name: Financial Reporting
     icon: <i class="fa-solid fa-file-export"></i>
     link: 
   - name: Publication
     icon: <i class="fa-solid fa-graduation-cap"></i>
-    link: 
+    link: https://iputusukma-book.github.io/publication
   - name: Project
     icon: <i class="fa-solid fa-diagram-project"></i>
     link: 
