@@ -19,7 +19,7 @@ We use a recent machine learning algorithm to detect facial landmarks and then c
 **Findings** <br>
 Utilizing machine learning algorithms, we find that the facial trustworthiness of the company executive negatively impacts the extent of IPO underpricing. This result implies that investors incorporate the facial trustworthiness of company executives into stock valuation. The IPO underpricing also shows that the cost of equity is higher when perceived trustworthiness is low. With regard to the higher information asymmetry in IPO transactions, such a negative impact implies the role of facial trustworthiness in alleviating information asymmetry. <br>
 
-**Originality/value**
+**Originality/value** <br>
 This study provides evidence of the impact of top management personal characteristics on firms’ financial transactions in the Indonesian context. From the perspective of investors and other fund providers, this study shows evidence that heuristics still play an important role in financial decision-making. This is also an indication of investor reliance on soft information. Our research method also provides a new opportunity for the use of machine-learning algorithms in processing non-conventional types of data in finance research, which is still relatively rare in emerging markets like Indonesia. To the best of our knowledge, our study is the first to use personalized measures of trust generated through machine-learning algorithms in IPO settings in Indonesia. <br>
 
 Published in Review of Behavioral Finance (2024) 16 (6): 1059–1086. in August 2024. <br>
