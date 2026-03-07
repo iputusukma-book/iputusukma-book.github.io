@@ -24,5 +24,10 @@ layout: default
 **[Long Term Financial Planning and Growth - additional material](https://iputusukma-book.github.io/3rd_week_corpfin_alt.pdf)** <br>
 **[EFN exercise answer](https://iputusukma-book.github.io/ipsh_EFN_exercise_answer.xlsx)** <br>
 
+### Week 4
+**[EFN homework answer](https://iputusukma-book.github.io/ipsh_solution_EFN.xlsx)** <br>
+**[Time Value of Money](https://iputusukma-book.github.io/ipsh_corpfin_tvm.pdf)** <br>
+**[Time Value of Money - additional material](https://iputusukma-book.github.io/ipsh_corpfin_tvm_add.pdf)** <br>
+**[Time Value of Money - knowledge check](https://iputusukma-book.github.io/ipsh_corpfin_tvm_kc.pdf)** <br>
 
 [back](./)
