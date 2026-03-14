@@ -28,6 +28,11 @@ layout: default
 **[EFN homework answer](https://iputusukma-book.github.io/ipsh_solution_EFN.xlsx)** <br>
 **[Time Value of Money](https://iputusukma-book.github.io/ipsh_corpfin_tvm.pdf)** <br>
 **[Time Value of Money - additional material](https://iputusukma-book.github.io/ipsh_corpfin_tvm_add.pdf)** <br>
-**[Time Value of Money - knowledge check](https://iputusukma-book.github.io/ipsh_corpfin_tvm_kc.pdf)** <br>
+**[Time Value of Money - knowledge check](https://iputusukma-book.github.io/4th_week_corpfin_knowedge_check_inc_answer.pdf)** <br>
+
+### Week 5
+**[Time Value of Money and Basic Valuation homework answer](https://iputusukma-book.github.io/5th_week_homework.pdf)** <br>
+**[Bond and Stock Valuation Basic](https://iputusukma-book.github.io/5th_week_corpfin.pdf)** <br>
+**[Bond and Stock Valuation Basic - knowledge check](https://iputusukma-book.github.io/5th_week_corpfin_knowledge_check.pdf)** <br>
 
 [back](./)
