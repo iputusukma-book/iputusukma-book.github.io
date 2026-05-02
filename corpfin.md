@@ -35,4 +35,15 @@ layout: default
 **[Bond and Stock Valuation Basic](https://iputusukma-book.github.io/5th_week_corpfin.pdf)** <br>
 **[Bond and Stock Valuation Basic - knowledge check](https://iputusukma-book.github.io/5th_week_corpfin_knowledge_check.pdf)** <br>
 
+
+### Week 1 - Post Mid Term Exams
+**[Project Appraisal and Feasibility](https://iputusukma-book.github.io/1st_week_corpfin_after_midterm.pdf)** <br>
+**[QA Project Appraisal and Feasibility - Sensitivity Analysis](https://iputusukma-book.github.io/QA_Capital_Budgeting.xlsx)** <br>
+
+### Week 2 - Post Mid Term Exams
+**[Risk, Return, and Security Market Line](https://iputusukma-book.github.io/3rd_week_corpfin_after_midterm.pdf)** <br>
+**[QA Risk and Return](https://iputusukma-book.github.io/QA_Risk_Return_Tradeoff.pdf)** <br>
+
+### Week 3 - Post Mid Term Exams
+**[Raising Capital](https://iputusukma-book.github.io/2nd_week_corpfin_after_midterm.pdf)** <br>
 [back](./)
