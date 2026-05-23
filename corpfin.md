@@ -47,5 +47,14 @@ layout: default
 ### Week 3 - Post Mid Term Exams
 **[Raising Capital](https://iputusukma-book.github.io/2nd_week_corpfin_after_midterm.pdf)** <br>
 
+### Week 4 - Post Mid Term Exams
+**[Cost of Capital and Capital Structure](https://iputusukma-book.github.io/4th_week_corpfin_post_midterm.pdf)** <br>
+
+### Week 5 - Post Mid Term Exams
+**[Working Capital Management](https://iputusukma-book.github.io/5th_week_corpfin_after_midterm.pdf)** <br>
+
+### Final Exams Exercise
+**[Problem Set](https://iputusukma-book.github.io/Corpfin_mock_final_exams.pdf)** <br>
+**[Answer Set](https://iputusukma-book.github.io/Corpfin_mock_final_exams_answer.xlsx)** <br>
 
 [back](./)
