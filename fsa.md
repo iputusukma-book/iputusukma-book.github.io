@@ -4,7 +4,7 @@ layout: default
 
 ## Financial Statement Analysis
 
-### Stack of Topics in Corporate Finance Class
+### Stack of Topics in Financial Statement Analysis Class
 **[Syllabus](https://iputusukma-book.github.io/FSA_syllabus.odd2627.pdf)**<br>
 
 ### Week 1
